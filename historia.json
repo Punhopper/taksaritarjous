@@ -83,6 +83,20 @@
         "Mikkeli": 1
       },
       "uudet": 0
+    },
+    {
+      "ts": "2026-07-18T11:47:46+03:00",
+      "source": "manuaali",
+      "found": 31,
+      "perCity": {
+        "Espoo": 2,
+        "Helsinki": 14,
+        "Vantaa": 5,
+        "Oulu": 2,
+        "Tampere": 7,
+        "Mikkeli": 1
+      },
+      "uudet": 0
     }
   ]
 }
