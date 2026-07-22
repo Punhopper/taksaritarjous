@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T23:24:52+03:00",
+  "updated": "2026-07-22T09:11:57+03:00",
   "cities": [
     {
       "city": "Espoo",
@@ -89,8 +89,10 @@
     {
       "city": "Oulu",
       "offers": [
+        { "id": "194597", "px": 5, "from": "Oulu", "to": "Muu", "date": "28.8." },
         { "id": "194276", "px": 15, "from": "Oulu", "to": "Jyväskylä", "date": "21.11." },
         { "id": "194317", "px": 16, "from": "Oulu", "to": "Sodankylä", "date": "5.9." },
+        { "id": "194594", "px": 19, "from": "Oulu", "to": "Rovaniemi", "date": "16.8." },
         { "id": "193315", "px": 20, "from": "Oulu", "to": "Luleå", "date": "26.8." },
         { "id": "193743", "px": 20, "from": "Oulu", "to": "Oulu", "date": "23.11." },
         { "id": "192842", "px": 50, "from": "Oulu", "to": "Oulu", "date": "12.9." },
@@ -105,13 +107,13 @@
       "offers": [
         { "id": "194583", "px": 3, "from": "Tampere", "to": "Lahti", "date": "29.8." },
         { "id": "193675", "px": 4, "from": "Tampere", "to": "Vantaa", "date": "28.10." },
-        { "id": "194522", "px": 6, "from": "Ulvila", "to": "Tampere", "date": "7.8." },
         { "id": "194422", "px": 7, "from": "Tampere", "to": "Tampere", "date": "8.8." },
         { "id": "185999", "px": 10, "from": "Tampere", "to": "Vaasa", "date": "19.5.2027" },
         { "id": "194492", "px": 11, "from": "Tampere", "to": "Tampere", "date": "29.8." },
         { "id": "194507", "px": 13, "from": "Tampere", "to": "Lohja", "date": "8.9." },
         { "id": "194366", "px": 15, "from": "Tampere", "to": "Jämsä", "date": "5.10." },
         { "id": "194593", "px": 15, "from": "Tampere", "to": "Vimpeli", "date": "2.8." },
+        { "id": "194596", "px": 16, "from": "Tampere", "to": "Kaarina", "date": "29.7." },
         { "id": "194437", "px": 25, "from": "Tampere", "to": "Sastamala", "date": "15.8." },
         { "id": "194470", "px": 25, "from": "Tampere", "to": "Ylöjärvi", "date": "15.8." },
         { "id": "194544", "px": 40, "from": "Tampere", "to": "Tampere", "date": "1.8." },
