@@ -290,6 +290,24 @@
         "Rovaniemi": 1
       },
       "uudet": 3
+    },
+    {
+      "ts": "2026-07-22T19:45:20+03:00",
+      "source": "manuaali",
+      "found": 110,
+      "perCity": {
+        "Espoo": 12,
+        "Helsinki": 42,
+        "Vantaa": 15,
+        "Oulu": 9,
+        "Tampere": 18,
+        "Porvoo": 1,
+        "Kirkkonummi": 3,
+        "Mikkeli": 1,
+        "Lahti": 8,
+        "Rovaniemi": 1
+      },
+      "uudet": 16
     }
   ]
 }
