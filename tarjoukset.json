@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T23:20:27+03:00",
+  "updated": "2026-07-27T23:29:15+03:00",
   "cities": [
     {
       "city": "Espoo",
@@ -138,7 +138,7 @@
     {
       "city": "Mikkeli",
       "offers": [
-        { "id": "194760", "px": null, "from": "Mikkeli", "to": "Mikkeli", "date": "28.7." }
+        { "id": "194760", "px": null, "from": "Mikkeli", "to": "Mikkeli", "date": "28.7.", "oid": "690268" }
       ]
     },
     {
