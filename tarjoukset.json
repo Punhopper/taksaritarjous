@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T22:52:29+03:00",
+  "updated": "2026-07-27T23:20:27+03:00",
   "cities": [
     {
       "city": "Espoo",
@@ -135,7 +135,12 @@
       ]
     },
     { "city": "Nurmijärvi", "offers": [] },
-    { "city": "Mikkeli", "offers": [] },
+    {
+      "city": "Mikkeli",
+      "offers": [
+        { "id": "194760", "px": null, "from": "Mikkeli", "to": "Mikkeli", "date": "28.7." }
+      ]
+    },
     {
       "city": "Lahti",
       "offers": [
