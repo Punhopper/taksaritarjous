@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T08:53:40+03:00",
+  "updated": "2026-07-27T22:52:29+03:00",
   "cities": [
     {
       "city": "Espoo",
@@ -8,7 +8,6 @@
         { "id": "194684", "px": 1, "from": "Espoo", "to": "Pori", "date": "10.10." },
         { "id": "194579", "px": 10, "from": "Espoo", "to": "Riihimäki", "date": "18.9." },
         { "id": "194748", "px": 15, "from": "Espoo", "to": "Turku", "date": "5.9." },
-        { "id": "194641", "px": 20, "from": "Espoo", "to": "Imatra", "date": "3.10." },
         { "id": "194435", "px": 25, "from": "Espoo", "to": "Porvoo", "date": "18.8." },
         { "id": "194436", "px": 25, "from": "Espoo", "to": "Sipoo", "date": "1.9." },
         { "id": "194735", "px": 29, "from": "Espoo", "to": "Lahti", "date": "11.9." },
@@ -24,37 +23,29 @@
         { "id": "194729", "px": 2, "from": "Helsinki", "to": "Espoo", "date": "20.12." },
         { "id": "193941", "px": 7, "from": "Helsinki", "to": "Raasepori", "date": "5.10." },
         { "id": "194359", "px": 7, "from": "Helsinki", "to": "Vantaa", "date": "24.9." },
-        { "id": "194659", "px": 8, "from": "Helsinki", "to": "Inkoo", "date": "22.8." },
-        { "id": "194660", "px": 8, "from": "Helsinki", "to": "Inkoo", "date": "22.8." },
+        { "id": "194837", "px": 7, "from": "Helsinki", "to": "Vantaa", "date": "29.7." },
         { "id": "194665", "px": 8, "from": "Helsinki", "to": "Inkoo", "date": "22.8." },
         { "id": "193028", "px": 9, "from": "Helsinki", "to": "Lammi", "date": "10.8." },
         { "id": "194332", "px": 10, "from": "Helsinki", "to": "Helsinki", "date": "22.8." },
         { "id": "194734", "px": 10, "from": "Helsinki", "to": "Helsinki", "date": "7.8." },
-        { "id": "194704", "px": 12, "from": "Helsinki", "to": "Helsinki", "date": "5.9." },
         { "id": "194743", "px": 12, "from": "Lohja", "to": "Helsinki", "date": "6.8." },
         { "id": "194311", "px": 13, "from": "Helsinki", "to": "Espoo", "date": "23.9." },
         { "id": "194722", "px": 13, "from": "Helsinki", "to": "Espoo", "date": "27.8." },
-        { "id": "194764", "px": 14, "from": "Helsinki", "to": "Helsinki", "date": "29.7." },
         { "id": "194180", "px": 15, "from": "Helsinki", "to": "Nurmijärvi", "date": "5.9." },
         { "id": "194699", "px": 15, "from": "Nokia", "to": "Helsinki", "date": "11.9." },
+        { "id": "194801", "px": 15, "from": "Helsinki", "to": "Espoo", "date": "17.9." },
         { "id": "193973", "px": 16, "from": "Hämeenlinna", "to": "Helsinki", "date": "14.5.2027" },
-        { "id": "193750", "px": 18, "from": "Helsinki", "to": "Kirkkonummi", "date": "21.8." },
         { "id": "194770", "px": 20, "from": "Helsinki", "to": "Kouvola", "date": "7.8." },
-        { "id": "194657", "px": 25, "from": "Helsinki", "to": "Asikkala", "date": "16.9." },
-        { "id": "194719", "px": 25, "from": "Helsinki", "to": "Asikkala", "date": "16.9." },
-        { "id": "194725", "px": 25, "from": "Helsinki", "to": "Turku", "date": "2.5.2027" },
+        { "id": "194802", "px": 20, "from": "Helsinki", "to": "Kotka", "date": "1.8." },
+        { "id": "194806", "px": 23, "from": "Helsinki", "to": "Hämeenlinna", "date": "14.10." },
         { "id": "193648", "px": 30, "from": "Riihimäki", "to": "Helsinki", "date": "21.8." },
-        { "id": "193939", "px": 30, "from": "Helsinki", "to": "Siuntio", "date": "31.10." },
         { "id": "194269", "px": 30, "from": "Helsinki", "to": "Porvoo", "date": "26.8." },
         { "id": "194773", "px": 30, "from": "Karkkila", "to": "Helsinki", "date": "4.10." },
-        { "id": "194621", "px": 35, "from": "Helsinki", "to": "Sipoo", "date": "22.8." },
         { "id": "194671", "px": 35, "from": "Helsinki", "to": "Helsinki", "date": "5.9." },
         { "id": "189640", "px": 40, "from": "Helsinki", "to": "Tampere", "date": "17.9." },
         { "id": "193478", "px": 40, "from": "Helsinki", "to": "Helsinki", "date": "26.8." },
         { "id": "194264", "px": 40, "from": "Turku", "to": "Helsinki", "date": "29.8." },
-        { "id": "194509", "px": 40, "from": "Helsinki", "to": "Lohja", "date": "8.9." },
         { "id": "194655", "px": 40, "from": "Helsinki", "to": "Lohja", "date": "15.8." },
-        { "id": "194287", "px": 45, "from": "Helsinki", "to": "Vantaa", "date": "8.8." },
         { "id": "194618", "px": 45, "from": "Helsinki", "to": "Paimio", "date": "29.8." },
         { "id": "194749", "px": 45, "from": "Helsinki", "to": "Helsinki", "date": "19.9." },
         { "id": "194766", "px": 48, "from": "Helsinki", "to": "Helsinki", "date": "26.9." },
@@ -62,7 +53,6 @@
         { "id": "193373", "px": 50, "from": "Helsinki", "to": "Juupajoki", "date": "24.9." },
         { "id": "194337", "px": 55, "from": "Helsinki", "to": "Vihti", "date": "12.9." },
         { "id": "193035", "px": 60, "from": "Helsinki", "to": "Porvoo", "date": "16.9." },
-        { "id": "194543", "px": 60, "from": "Helsinki", "to": "Tuusula", "date": "24.9." },
         { "id": "194624", "px": 70, "from": "Helsinki", "to": "Turku", "date": "5.4.2027" }
       ]
     },
@@ -70,20 +60,25 @@
       "city": "Vantaa",
       "offers": [
         { "id": "194296", "px": 1, "from": "Vantaa", "to": "Riihimäki", "date": "9.8." },
-        { "id": "194771", "px": 4, "from": "Karjalohja", "to": "Vantaa", "date": "8.8." },
+        { "id": "194834", "px": 5, "from": "Vantaa", "to": "Salo", "date": "3.8." },
         { "id": "194521", "px": 7, "from": "Vantaa", "to": "Helsinki", "date": "24.9." },
+        { "id": "194800", "px": 7, "from": "Vantaa", "to": "Pori", "date": "7.11." },
         { "id": "194717", "px": 8, "from": "Vantaa", "to": "Tampere", "date": "3.8." },
         { "id": "194753", "px": 10, "from": "Vantaa", "to": "Helsinki", "date": "1.8." },
         { "id": "194591", "px": 12, "from": "Varkaus", "to": "Vantaa", "date": "30.9." },
         { "id": "193629", "px": 25, "from": "Vantaa", "to": "Rautavaara", "date": "11.10." },
         { "id": "194772", "px": 29, "from": "Vantaa", "to": "Tammela", "date": "29.8." },
-        { "id": "194667", "px": 31, "from": "Vöyri", "to": "Vantaa", "date": "9.10." },
         { "id": "194175", "px": 50, "from": "Vantaa", "to": "Hyvinkää", "date": "29.1.2027" },
         { "id": "194324", "px": 50, "from": "Kaarina", "to": "Vantaa", "date": "14.11." },
         { "id": "194130", "px": 80, "from": "Vantaa", "to": "Espoo", "date": "10.9." }
       ]
     },
-    { "city": "Seinäjoki", "offers": [] },
+    {
+      "city": "Seinäjoki",
+      "offers": [
+        { "id": "194784", "px": 27, "from": "Seinäjoki", "to": "Kuortane", "date": "27.8." }
+      ]
+    },
     {
       "city": "Oulu",
       "offers": [
@@ -91,9 +86,9 @@
         { "id": "193315", "px": 20, "from": "Oulu", "to": "Luleå", "date": "26.8." },
         { "id": "193743", "px": 20, "from": "Oulu", "to": "Oulu", "date": "23.11." },
         { "id": "194728", "px": 20, "from": "Oulu", "to": "Oulu", "date": "15.8." },
+        { "id": "194785", "px": 30, "from": "Oulu", "to": "Oulu", "date": "5.9." },
         { "id": "192842", "px": 50, "from": "Oulu", "to": "Oulu", "date": "12.9." },
         { "id": "193620", "px": 50, "from": "Oulu", "to": "Kemi", "date": "21.11." },
-        { "id": "194678", "px": 50, "from": "Oulu", "to": "Kuusamo", "date": "16.4.2027" },
         { "id": "194759", "px": 52, "from": "Tornio", "to": "Oulu", "date": "12.9." },
         { "id": "192841", "px": 55, "from": "Oulu", "to": "Kittilä", "date": "2.10." },
         { "id": "194405", "px": 55, "from": "Oulu", "to": "Kuusamo", "date": "5.9." }
@@ -105,22 +100,21 @@
       "offers": [
         { "id": "194622", "px": 2, "from": "Tampere", "to": "Pirkkala", "date": "17.8." },
         { "id": "193675", "px": 4, "from": "Tampere", "to": "Vantaa", "date": "28.10." },
-        { "id": "194630", "px": 4, "from": "Pälkäne", "to": "Tampere", "date": "8.8." },
-        { "id": "194642", "px": 5, "from": "Tampere", "to": "Lahti", "date": "8.8." },
         { "id": "185999", "px": 10, "from": "Tampere", "to": "Vaasa", "date": "19.5.2027" },
-        { "id": "194507", "px": 13, "from": "Tampere", "to": "Lohja", "date": "8.9." },
-        { "id": "194752", "px": 13, "from": "Tampere", "to": "Ikaalinen", "date": "22.8." },
+        { "id": "194788", "px": 10, "from": "Tampere", "to": "Ylöjärvi", "date": "5.8." },
         { "id": "194366", "px": 15, "from": "Tampere", "to": "Jämsä", "date": "5.10." },
         { "id": "194718", "px": 15, "from": "Tampere", "to": "Vantaa", "date": "6.8." },
         { "id": "194733", "px": 16, "from": "Tampere", "to": "Lohja", "date": "6.8." },
+        { "id": "194803", "px": 19, "from": "Tampere", "to": "Sastamala", "date": "13.8." },
         { "id": "194714", "px": 20, "from": "Tampere", "to": "Vantaa", "date": "9.9." },
         { "id": "194739", "px": 20, "from": "Tampere", "to": "Forssa", "date": "14.8." },
         { "id": "194470", "px": 25, "from": "Tampere", "to": "Ylöjärvi", "date": "15.8." },
         { "id": "194680", "px": 25, "from": "Tampere", "to": "Pirkkala", "date": "29.8." },
-        { "id": "194564", "px": 40, "from": "Tampere", "to": "Orivesi", "date": "19.9." },
+        { "id": "194804", "px": 25, "from": "Parainen", "to": "Tampere", "date": "13.11." },
         { "id": "194703", "px": 40, "from": "Tampere", "to": "Pälkäne", "date": "22.8." },
         { "id": "193863", "px": 45, "from": "Lappeenranta", "to": "Tampere", "date": "21.8." },
         { "id": "194631", "px": 45, "from": "Tampere", "to": "Sastamala", "date": "22.8." },
+        { "id": "194780", "px": 45, "from": "Tampere", "to": "Tampere", "date": "29.9." },
         { "id": "189334", "px": 60, "from": "Tampere", "to": "Hämeenlinna", "date": "21.11." },
         { "id": "194746", "px": 88, "from": "Tampere", "to": "Helsinki", "date": "25.9." },
         { "id": "190683", "px": 90, "from": "Tampere", "to": "Göteborg", "date": "26.5.2027" }
@@ -129,45 +123,30 @@
     {
       "city": "Porvoo",
       "offers": [
+        { "id": "194817", "px": 15, "from": "Porvoo", "to": "Porvoo", "date": "15.8." },
+        { "id": "194809", "px": 20, "from": "Porvoo", "to": "Turku", "date": "2.8." },
         { "id": "194693", "px": 25, "from": "Porvoo", "to": "Sipoo", "date": "20.8." }
       ]
     },
     {
       "city": "Kirkkonummi",
       "offers": [
-        { "id": "194186", "px": 40, "from": "Kirkkonummi", "to": "Nokia", "date": "8.8." },
         { "id": "194256", "px": 40, "from": "Kirkkonummi", "to": "Kontiolahti", "date": "21.8." }
       ]
     },
-    {
-      "city": "Nurmijärvi",
-      "offers": [
-        { "id": "194710", "px": 30, "from": "Nurmijärvi", "to": "Turku", "date": "30.7." }
-      ]
-    },
-    {
-      "city": "Mikkeli",
-      "offers": [
-        { "id": "194760", "px": 2, "from": "Mikkeli", "to": "Mikkeli", "date": "28.7." }
-      ]
-    },
+    { "city": "Nurmijärvi", "offers": [] },
+    { "city": "Mikkeli", "offers": [] },
     {
       "city": "Lahti",
       "offers": [
         { "id": "194602", "px": 20, "from": "Lahti", "to": "Muu", "date": "8.8." },
         { "id": "194194", "px": 23, "from": "Orimattila", "to": "Lahti", "date": "13.2.2027" },
-        { "id": "194599", "px": 35, "from": "Orimattila", "to": "Lahti", "date": "15.8." },
+        { "id": "194814", "px": 26, "from": "Lahti", "to": "Vierumäki", "date": "5.9." },
         { "id": "193871", "px": 40, "from": "Jyväskylä", "to": "Lahti", "date": "19.9." },
-        { "id": "192969", "px": 45, "from": "Lahti", "to": "Lempäälä", "date": "6.9." },
         { "id": "194346", "px": 45, "from": "Lahti", "to": "Porvoo", "date": "11.12." }
       ]
     },
-    {
-      "city": "Kittilä",
-      "offers": [
-        { "id": "194696", "px": 32, "from": "Turku", "to": "Kittilä", "date": "8.3.2027" }
-      ]
-    },
+    { "city": "Kittilä", "offers": [] },
     {
       "city": "Rovaniemi",
       "offers": [
