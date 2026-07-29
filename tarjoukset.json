@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T10:37:14+03:00",
+  "updated": "2026-07-29T10:42:40+03:00",
   "cities": [
     {
       "city": "Espoo",
@@ -50,6 +50,7 @@
         { "id": "194915", "px": 25, "from": "Helsinki", "to": "Parikkala", "date": "15.8." },
         { "id": "194269", "px": 30, "from": "Helsinki", "to": "Porvoo", "date": "26.8." },
         { "id": "194773", "px": 30, "from": "Karkkila", "to": "Helsinki", "date": "4.10." },
+        { "id": "194935", "px": 30, "from": "Helsinki", "to": "Vierumäki", "date": "18.9." },
         { "id": "194671", "px": 35, "from": "Helsinki", "to": "Helsinki", "date": "5.9." },
         { "id": "189640", "px": 40, "from": "Helsinki", "to": "Tampere", "date": "17.9." },
         { "id": "193478", "px": 40, "from": "Helsinki", "to": "Helsinki", "date": "26.8." },
