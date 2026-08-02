@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T14:21:40+03:00",
+  "updated": "2026-08-02T21:33:32+03:00",
   "cities": [
     {
       "city": "Espoo",
@@ -45,6 +45,7 @@
         { "id": "194954", "px": 30, "from": "Helsinki", "to": "Raasepori", "date": "14.8." },
         { "id": "194968", "px": 30, "from": "Pori", "to": "Helsinki", "date": "1.9." },
         { "id": "195036", "px": 30, "from": "Helsinki", "to": "Raasepori", "date": "4.9." },
+        { "id": "195090", "px": 30, "from": "Helsinki", "to": "Karkkila", "date": "19.9." },
         { "id": "195023", "px": 33, "from": "Helsinki", "to": "Tammela", "date": "21.8." },
         { "id": "195024", "px": 33, "from": "Helsinki", "to": "Tammela", "date": "21.8." },
         { "id": "194671", "px": 35, "from": "Helsinki", "to": "Helsinki", "date": "5.9." },
@@ -71,6 +72,7 @@
     {
       "city": "Vantaa",
       "offers": [
+        { "id": "195094", "px": 2, "from": "Akaa", "to": "Vantaa", "date": "11.10." },
         { "id": "194521", "px": 7, "from": "Vantaa", "to": "Helsinki", "date": "24.9." },
         { "id": "194800", "px": 7, "from": "Vantaa", "to": "Pori", "date": "7.11." },
         { "id": "195065", "px": 8, "from": "Vantaa", "to": "Kirkkonummi", "date": "5.11." },
@@ -121,6 +123,7 @@
         { "id": "194932", "px": 4, "from": "Tampere", "to": "Hattula", "date": "8.8." },
         { "id": "195025", "px": 6, "from": "Joensuu", "to": "Tampere", "date": "11.8." },
         { "id": "195061", "px": 8, "from": "Ylöjärvi", "to": "Tampere", "date": "7.8." },
+        { "id": "195097", "px": 8, "from": "Tampere", "to": "Kihniö", "date": "25.9." },
         { "id": "185999", "px": 10, "from": "Tampere", "to": "Vaasa", "date": "19.5.2027" },
         { "id": "194997", "px": 12, "from": "Tampere", "to": "Tampere", "date": "5.8." },
         { "id": "194999", "px": 12, "from": "Tampere", "to": "Tampere", "date": "7.8." },
@@ -133,7 +136,6 @@
         { "id": "194937", "px": 24, "from": "Tampere", "to": "Ylöjärvi", "date": "9.10." },
         { "id": "194470", "px": 25, "from": "Tampere", "to": "Ylöjärvi", "date": "15.8." },
         { "id": "194804", "px": 25, "from": "Parainen", "to": "Tampere", "date": "13.11." },
-        { "id": "194909", "px": 25, "from": "Tampere", "to": "Jyväskylä", "date": "26.9." },
         { "id": "195035", "px": 25, "from": "Kokemäki", "to": "Tampere", "date": "29.8." },
         { "id": "194963", "px": 30, "from": "Tampere", "to": "Tampere", "date": "25.9." },
         { "id": "193863", "px": 45, "from": "Lappeenranta", "to": "Tampere", "date": "21.8." },
