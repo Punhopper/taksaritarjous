@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T21:30:18+03:00",
+  "updated": "2026-08-08T10:18:39+03:00",
   "cities": [
     {
       "city": "Espoo",
@@ -9,8 +9,6 @@
         { "id": "195428", "px": 15, "from": "Espoo", "to": "Mänttä-Vilppula", "date": "6.11." },
         { "id": "195368", "px": 16, "from": "Espoo", "to": "Loviisa", "date": "24.9." },
         { "id": "195306", "px": 20, "from": "Hyvinkää", "to": "Espoo", "date": "29.10." },
-        { "id": "194435", "px": 25, "from": "Espoo", "to": "Porvoo", "date": "18.8." },
-        { "id": "194436", "px": 25, "from": "Espoo", "to": "Sipoo", "date": "1.9." },
         { "id": "195328", "px": 25, "from": "Espoo", "to": "Helsinki", "date": "21.8." },
         { "id": "195331", "px": 25, "from": "Espoo", "to": "Espoo", "date": "13.9." },
         { "id": "194735", "px": 29, "from": "Espoo", "to": "Lahti", "date": "11.9." },
