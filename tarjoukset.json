@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T19:00:43+03:00",
+  "updated": "2026-08-19T21:55:55+03:00",
   "cities": [
     {
       "city": "Espoo",
@@ -55,6 +55,7 @@
         { "id": "195521", "px": 12, "from": "Helsinki", "to": "Vantaa", "date": "30.10." },
         { "id": "195766", "px": 12, "from": "Helsinki", "to": "Turku", "date": "6.11." },
         { "id": "196163", "px": 12, "from": "Helsinki", "to": "Helsinki", "date": "21.8." },
+        { "id": "196258", "px": 13, "from": "Helsinki", "to": "Helsinki", "date": "21.11." },
         { "id": "195348", "px": 15, "from": "Helsinki", "to": "Turku", "date": "12.9." },
         { "id": "195749", "px": 15, "from": "Helsinki", "to": "Tuusula", "date": "10.9." },
         { "id": "196042", "px": 15, "from": "Helsinki", "to": "Lahti", "date": "23.9." },
@@ -143,6 +144,7 @@
         { "id": "196212", "px": 24, "from": "Vantaa", "to": "Porvoo", "date": "1.9." },
         { "id": "196177", "px": 26, "from": "Vantaa", "to": "Helsinki", "date": "27.8." },
         { "id": "195314", "px": 30, "from": "Vantaa", "to": "Helsinki", "date": "10.10." },
+        { "id": "196253", "px": 30, "from": "Vantaa", "to": "Pori", "date": "28.8." },
         { "id": "194324", "px": 50, "from": "Kaarina", "to": "Vantaa", "date": "14.11." }
       ]
     },
