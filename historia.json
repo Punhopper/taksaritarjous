@@ -1,24 +1,6 @@
 {
   "runs": [
     {
-      "ts": "2026-07-27T22:52:23+03:00",
-      "source": "manuaali",
-      "found": 99,
-      "perCity": {
-        "Espoo": 11,
-        "Helsinki": 34,
-        "Vantaa": 12,
-        "Seinäjoki": 1,
-        "Oulu": 10,
-        "Tampere": 20,
-        "Porvoo": 3,
-        "Kirkkonummi": 1,
-        "Lahti": 5,
-        "Rovaniemi": 2
-      },
-      "uudet": 15
-    },
-    {
       "ts": "2026-07-27T23:20:22+03:00",
       "source": "manuaali",
       "found": 100,
@@ -1210,6 +1192,26 @@
         "Rovaniemi": 2
       },
       "uudet": 38
+    },
+    {
+      "ts": "2026-08-21T20:47:49+03:00",
+      "source": "manuaali",
+      "found": 187,
+      "perCity": {
+        "Espoo": 22,
+        "Helsinki": 72,
+        "Vantaa": 16,
+        "Seinäjoki": 3,
+        "Oulu": 17,
+        "Kauniainen": 2,
+        "Tampere": 29,
+        "Porvoo": 3,
+        "Kirkkonummi": 7,
+        "Nurmijärvi": 6,
+        "Lahti": 9,
+        "Rovaniemi": 1
+      },
+      "uudet": 24
     }
   ]
 }
